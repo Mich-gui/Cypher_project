@@ -12,7 +12,7 @@ A Python program that encodes user input text by shifting forward each letter by
 ## Installation 
 To use this program locally, follow these steps:
 
-Download and install Python 3.x from the official website: https://www.python.org/downloads/ Download the cypher_project.py file from the project's GitHub repository:  Open a terminal or command prompt and navigate to the directory where you saved cypher.py Run the command python python.py to start the program
+Download and install Python 3.x from the official website: (https://www.python.org/downloads/) Download the cypher_project.py file from the project's GitHub repository: (https://github.com/Mich-gui/Cypher_project/blob/main/cypher.py)  Open a terminal or command prompt and navigate to the directory where you saved cypher.py Run the command python python.py to start the program
 
 ## Usage 
 Once you've installed the program, follow these steps to use it:
